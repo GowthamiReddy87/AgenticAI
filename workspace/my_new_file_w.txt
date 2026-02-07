@@ -1,0 +1,2 @@
+Hello from write mode!
+This content will overwrite any previous content.
